@@ -8,6 +8,6 @@ The idea is how could we have a true object-oriented distributed package system?
 
 Look I know this isn't very clear, and it may seem like I'm boasting about object-oriented programming like it's something new, I get it, it's not.
 
-The idea is that what if there was a "package manager" for object-oriented programing? Everything is an object every object has a hashable ID on the network. Perhaps using something like [ipfs](https://www.ipfs.com/) the whole system could be decentralized.
+The idea is that what if there was a "package manager" for object-oriented programing? Everything is an object every object has a hashable ID on the network. Perhaps using something like [ipfs](https://ipfs.io//) the whole system could be decentralized.
 
 The general idea is that we create too many inconsistencies in preference of formatting and converting data from one format to another. We don't place emphasis on organization and doing things one / the best way. We have many libraries out there that do the same things. If there was an echo system for piecing together objects and schemas every API wrapper could follow the same convention.
